@@ -4,5 +4,9 @@ Python app that fetches data from the yr.no API. Used from the command line, pre
 
 # todo
 
+- format:
+	{today} {9am} {temperature, rain/no rain} {3pm} {temperature, rain/no rain} {9pm} {temperature, rain/no rain}
+	{tomorrow} {9am} {temperature, rain/no rain} {3pm} {temperature, rain/no rain} {9pm} {temperature, rain/no rain}
+	{day_after_tomorrow} {9am} {temperature, rain/no rain} {3pm} {temperature, rain/no rain} {9pm} {temperature, rain/no rain}
 - tests with robot framework
 
